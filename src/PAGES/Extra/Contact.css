@@ -1,0 +1,18 @@
+.location {
+    margin-top: 1rem;
+    align-items: center;
+    text-align: center;
+}
+
+.location h3 {
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 10px;
+    color: orangered;
+}
+
+.location address p {
+    font-size: 1rem;
+    padding: 5px;
+    color: rgb(5, 5, 67);
+}
